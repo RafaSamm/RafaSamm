@@ -1,6 +1,6 @@
 ### Ola, eu sou Rafael Sammarco 👋
 
-## Atualmente estou aprendendo ...
+# Estou aprendendo ...
 
 
  📫 Como entrar em contato comigo:
