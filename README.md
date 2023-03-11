@@ -1,5 +1,9 @@
 ### Ola, eu sou Rafael Sammarco 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Rafael Sammarco=RafaSamm)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/RafaSamm">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSamm&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaSamm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 #### Estou aprendendo ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="40" height="40"  />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
