@@ -1,4 +1,4 @@
-### Olá tudo bem, eu sou Rafael Sammarco 👋
+### Olá tudo bem, eu sou Rafael Sammarco 👋👨🏻‍💻
 
 <div>
 <a href="https://github.com/RafaSamm">
