@@ -9,7 +9,7 @@
 #### ESTUDANDO
 
 
-#### Linguagem BackEnd
+#### Linguagem Back-end
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> 
 
 #### Ferramentas ...
