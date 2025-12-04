@@ -2,13 +2,19 @@
 
 <div>
 <a href="https://github.com/RafaSamm">
-<!-- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSamm&layout=compact&langs_count=7&theme=dracula"/> 
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=RafaSamm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-<img height="130em" src="https://github-readme-stats-dorukan.vercel.app/api/top-langs/?username=RafaSamm&layout=compact&theme=dracula" />
-<img height="130em" src="https://github-readme-stats-dorukan.vercel.app/api?username=RafaSamm&show_icons=true&theme=dracula" />
-
-
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaSamm&layout=compact&langs_count=7&theme=dracula"/> 
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=RafaSamm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+            
+<!-- Followers & stars -->
+![Followers](https://img.shields.io/github/followers/RafaSamm?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/RafaSamm?style=for-the-badge)
+
+<!-- Profile views -->
+![Profile views](https://komarev.com/ghpvc/?username=RafaSamm&color=blue)
+
+
+
 
 ## 💻HABILIDADES
 
@@ -25,8 +31,8 @@
 
 ### ➡️Ferramentas ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" height="50" /><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" />   <img 
-                                                                                                                                                                                                                                                                                                                                                                                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" /><img 
+                                                                                                                                                                                                                                                                                                                                                                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="70" />
           
 
 ### ➡️Banco de dados...
